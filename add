@@ -2,8 +2,8 @@
 #include<conio.h>
 void main()
 {
-int a=12;
-int b=14;
+int a=14;
+int b=12;
 int c;
 c=a+b;
 printf("c:",c);
